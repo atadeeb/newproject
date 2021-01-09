@@ -1,0 +1,77 @@
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 25px;
+}
+table {
+    width: 100%;
+    height: 70%;
+    font-size: larger;
+
+}
+
+.acid {
+    color: rgb(225, 241, 6);
+}
+
+.base {
+    color: rgb(255, 166, 0);
+}
+
+.neutral {
+    color: rgb(0, 0, 0);
+}
+
+.name {
+    text-align: right;
+    color: rgb(255, 137, 1) ;
+}
+#h {
+    background-color: rgb(15, 52, 172);
+}
+
+#i {
+    background-color: rgb(33, 66, 172);
+}
+
+#j {
+    background-color: rgb(62, 79, 141);
+}
+
+#k {
+    background-color: rgb(67, 87, 155);
+}
+
+#l {
+    background-color: rgb(77, 92, 145);
+}
+
+#m {
+    background-color: rgb(81, 97, 145);
+}
+
+#n {
+    background-color: rgb(241, 131, 131);
+}
+#g {
+    background-color: rgb(1, 87, 8);
+}
+#f {
+    background-color: rgb(241, 107, 107);
+}
+#e {
+    background-color: rgb(228, 60, 60);
+}
+#d {
+    background-color: rgb(201, 57, 57);
+}
+#c {
+    background-color: rgb(185, 48, 48);
+}
+#b {
+    background-color: rgb(160, 18, 18);
+}
+#a {
+    background-color: rgb(117, 3, 3);
+}
